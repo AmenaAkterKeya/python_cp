@@ -1,3 +1,4 @@
+# problem: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T
 def sorting(x,y,z):
     ar = [x, y, z]
     ar.sort()  
